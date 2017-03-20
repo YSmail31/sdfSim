@@ -1,0 +1,3976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list_applicatio>
+	<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+<application>
+		<tache>
+			<id>0</id>
+			<type>0</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="1" data="100" />
+				<id_succ id="2" data="100" />
+				<id_succ id="3" data="100" />
+				<id_succ id="4" data="100" />
+			</succ>
+		</tache>
+
+		<tache>
+			<id>1</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			</succ>
+		</tache>
+		<tache>
+			<id>2</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="5" data="100" />
+				<id_succ id="6" data="100" />
+				<id_succ id="7" data="100" />
+				<id_succ id="8" data="100" />
+				<id_succ id="9" data="100" />
+				<id_succ id="10" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>3</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="11" data="100" />
+				<id_succ id="12" data="100" />
+				<id_succ id="13" data="100" />
+				<id_succ id="14" data="100" />
+				<id_succ id="15" data="100" />
+				<id_succ id="16" data="100" />
+
+			</succ>
+		</tache>
+		<tache>
+			<id>4</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>5</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>6</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="17" data="100" />
+				<id_succ id="18" data="100" />
+				<id_succ id="19" data="100" />
+				<id_succ id="20" data="100" />
+				<id_succ id="21" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>7</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>8</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="22" data="100" />
+				<id_succ id="23" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>9</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+				<id_succ id="24" data="100" />
+				<id_succ id="25" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>10</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>11</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			<tache>
+			<id>12</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="26" data="100" />
+			<id_succ id="27" data="100" />
+			<id_succ id="28" data="100" />
+			<id_succ id="29" data="100" />
+			</succ>
+		</tache>
+			<tache>
+			<id>13</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="30" data="100" />
+			<id_succ id="31" data="100" />
+			<id_succ id="32" data="100" />
+			</succ>
+		</tache>
+	<tache>
+			<id>14</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="33" data="100" />
+			<id_succ id="34" data="100" />
+			<id_succ id="35" data="100" />
+			<id_succ id="36" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>15</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>	
+			<id_succ id="37" data="100" />
+			<id_succ id="38" data="100" />
+			<id_succ id="39" data="100" />
+			<id_succ id="40" data="100" />
+			</succ>
+		</tache>
+		<tache>
+			<id>16</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>17</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>18</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+	     <tache>
+			<id>19</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>20</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>21</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>22</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>23</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>24</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>25</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>26</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>27</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>28</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>29</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>30</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>31</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>32</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>33</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>34</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>35</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>36</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>37</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>38</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>39</id>
+			<type>2</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+		<tache>
+			<id>40</id>
+			<type>1</type>
+			<taille_tache>300</taille_tache>
+			<succ>
+			</succ>
+		</tache>
+			</application>
+
+</list_applicatio>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<premadona type='sdf' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version='1.0' xsi:noNamespaceSchemaLocation="usecase.xsd">
+  <usecase name='usecase'>
+    <application name='test' weight='1' />
+  </usecase>
+  <applicationGraph name='test' type='sdf'>
+    <sdf name="test" type="test">
+      <actor name="producer" type="A0">
+        <port name="p0" type="out" rate="1" />
+        <port name="p1" type="in" rate="1" />
+        <port name="p2" type="out" rate="1" />
+      </actor>
+      <actor name="consumer" type="A1">
+        <port name="p0" type="in" rate="2" />
+        <port name="p1" type="out" rate="1" />
+        <port name="p2" type="in" rate="1" />
+      </actor>
+      <channel name="a0toa1" srcActor="producer" srcPort="p0" dstActor="consumer" dstPort="p0" />
+      <channel name="a0state" srcActor="producer" srcPort="p2" dstActor="producer" dstPort="p1" initialTokens="1" />
+      <channel name="a1state" srcActor="consumer" srcPort="p1" dstActor="consumer" dstPort="p2" initialTokens="1" />
+    </sdf>
+    <sdfProperties>
+      <actorProperties actor="producer">
+        <function name="producer" />
+        <processor type="microblaze1" default="true">
+          <executionTime>40</executionTime>
+          <memoryElement name='.code'>
+            <size>1084</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/producer.c' />
+        </processor>
+        <portMapping portName='p0' arg='1' />
+      </actorProperties>
+      <actorProperties actor="consumer">
+        <function name='consumer' />
+        <initFunction name='init_consumer' />
+        <processor type="microblaze0" default="true">
+          <executionTime>59</executionTime>
+          <memoryElement name='.code'>
+            <size>400</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/consumer.c' />
+        </processor>
+        <portMapping portName='p0' arg='1' />
+        <portMapping portName='p1' arg='2' />
+        <portMapping portName='p2' arg='3' />
+      </actorProperties>
+      <channelProperties channel="a0toa1">
+        <tokenSize sz="16" />
+      </channelProperties>
+      <channelProperties channel="a0state">
+        <tokenSize sz="4" />
+      </channelProperties>
+      <channelProperties channel="a1state">
+        <tokenSize sz="4" />
+      </channelProperties>
+      <graphProperties>
+        <timeConstraints>
+          <throughput>0.00000003</throughput>
+        </timeConstraints>
+      </graphProperties>
+    </sdfProperties>
+  </applicationGraph>
+</premadona>

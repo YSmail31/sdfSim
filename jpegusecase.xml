@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<premadona type='sdf' xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version='1.0' xsi:noNamespaceSchemaLocation="usecase.xsd">
+  <usecase name='usecase3'>
+    <application name='jpegdecoder' weight='1' />
+  </usecase>
+  <applicationGraph name='jpegdecoder' type='sdf'>
+    <sdf name="jpegdecoder" type="JPEG_decoder">
+      <actor name="vld" type="A0">
+        <port name="out" type="out" rate="1" />
+        <port name="out_subheader0" type="out" rate="1" />
+        <port name="out_subheader2" type="out" rate="1" />
+        <port name="state_in" type="in" rate="1" />
+        <port name="state_out" type="out" rate="1" />
+      </actor>
+      <actor name="iqzz" type="A1">
+        <port name="in" type="in" rate="1" />
+        <port name="out" type="out" rate="1" />
+      </actor>
+      <actor name="idct" type="A2">
+        <port name="in" type="in" rate="1" />
+        <port name="out" type="out" rate="1" />
+      </actor>
+      <actor name="cc" type="A3">
+        <port name="in" type="in" rate="1" />
+        <port name="in_subheader0" type="in" rate="1" />
+        <port name="out" type="out" rate="1" />
+      </actor>
+      <actor name="raster" type="A3">
+        <port name="in" type="in" rate="1" />
+        <port name="in_subheader2" type="in" rate="1" />
+        <port name="state_in" type="in" rate="1" />
+        <port name="state_out" type="out" rate="1" />
+      </actor>
+      <channel name="vld2iqzz" srcActor="vld" srcPort="out" dstActor="iqzz" dstPort="in" />
+      <channel name="vld2cc_subheader0" srcActor="vld" srcPort="out_subheader0" dstActor="cc" dstPort="in_subheader0" />
+      <channel name="vld2raster_subheader2" srcActor="vld" srcPort="out_subheader2" dstActor="raster" dstPort="in_subheader2" />
+      <channel name="vld_state" srcActor="vld" srcPort="state_out" dstActor="vld" dstPort="state_in" initialTokens='1' />
+      <channel name="iqzz2idct" srcActor="iqzz" srcPort="out" dstActor="idct" dstPort="in" />
+      <channel name="idct2cc" srcActor="idct" srcPort="out" dstActor="cc" dstPort="in" />
+      <channel name="cc2raster" srcActor="cc" srcPort="out" dstActor="raster" dstPort="in" />
+      <channel name="raster_state" srcActor="raster" srcPort="state_out" dstActor="raster" dstPort="state_in" initialTokens='1' />
+    </sdf>
+    <sdfProperties>
+      <actorProperties actor="vld">
+        <function name='header_vld' />
+        <initFunction name='init_vld' />
+        <processor type="microblaze0" default="true">
+          <executionTime>26018</executionTime>
+          <memoryElement name='.code'>
+            <size>10848</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/header_vld.c' />
+          <fileToCompile name='actors/utilities.c' />
+          <fileToCompile name='actors/jpeg.h' />
+        </processor>
+        <portMapping portName='out' arg='1' />
+        <portMapping portName='out_subheader0' arg='2' />
+        <portMapping portName='out_subheader2' arg='3' />
+      </actorProperties>
+      <actorProperties actor="iqzz">
+        <function name='iqzz' />
+        <processor type="microblaze1" default="true">
+          <executionTime>559</executionTime>
+          <memoryElement name='.code'>
+            <size>400</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/iqzz.c' />
+          <fileToCompile name='actors/utilities.c' />
+          <fileToCompile name='actors/jpeg.h' />
+        </processor>
+        <portMapping portName='in' arg='1' />
+        <portMapping portName='out' arg='2' />
+      </actorProperties>
+      <actorProperties actor="idct">
+        <function name='idct' />
+        <processor type="microblaze1" default="true">
+          <executionTime>486</executionTime>
+          <memoryElement name='.code'>
+            <size>400</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/idct.c' />
+          <fileToCompile name='actors/utilities.c' />
+          <fileToCompile name='actors/jpeg.h' />
+        </processor>
+        <portMapping portName='in' arg='1' />
+        <portMapping portName='out' arg='2' />
+      </actorProperties>
+      <actorProperties actor="cc">
+        <function name='cc' />
+        <processor type="microblaze1" default="true">
+          <executionTime>10958</executionTime>
+          <memoryElement name='.code'>
+            <size>8000</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/cc.c' />
+          <fileToCompile name='actors/utilities.c' />
+          <fileToCompile name='actors/jpeg.h' />
+        </processor>
+        <portMapping portName='in_subheader0' arg='1' />
+        <portMapping portName='in' arg='2' />
+        <portMapping portName='out' arg='3' />
+      </actorProperties>
+      <actorProperties actor="raster">
+        <function name='raster' />
+        <processor type="microblaze0" default="true">
+          <executionTime>10958</executionTime>
+          <memoryElement name='.code'>
+            <size>8000</size>
+            <accessCnt>1</accessCnt>
+            <accessType>IFetch</accessType>
+            <accessSize>word</accessSize>
+          </memoryElement>
+          <memoryElement name='.data'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>halfword</accessSize>
+          </memoryElement>
+          <memoryElement name='sharedVar'>
+            <size>0</size>
+            <accessCnt>1</accessCnt>
+            <accessType>DRead,DWrite</accessType>
+            <accessSize>byte</accessSize>
+          </memoryElement>
+          <fileToCompile name='actors/raster.c' />
+          <fileToCompile name='actors/utilities.c' />
+          <fileToCompile name='actors/jpeg.h' />
+        </processor>
+        <portMapping portName='in' arg='2' />
+        <portMapping portName='in_subheader2' arg='1' />
+      </actorProperties>
+      <channelProperties channel="vld2iqzz">
+        <tokenSize sz="3200" />
+        <!--size of BigFValue-->
+      </channelProperties>
+      <channelProperties channel="vld2cc_subheader0">
+        <tokenSize sz="60" />
+        <!--size of SubHeader0-->
+      </channelProperties>
+      <channelProperties channel="vld2raster_subheader2">
+        <tokenSize sz="36" />
+        <!--size of SubHeader1-->
+      </channelProperties>
+      <channelProperties channel="vld_state">
+        <tokenSize sz="14612" />
+        <!--size of OriginalImageBuffer 360000-->
+      </channelProperties>
+      <channelProperties channel="iqzz2idct">
+        <tokenSize sz="2560" />
+        <!--size of BigFBlock-->
+      </channelProperties>
+      <channelProperties channel="idct2cc">
+        <tokenSize sz="640" />
+        <!--size of BigPBlock-->
+      </channelProperties>
+      <channelProperties channel="cc2raster">
+        <tokenSize sz="3072" />
+        <!--size of BigColorBuffer-->
+      </channelProperties>
+      <channelProperties channel="raster_state">
+        <tokenSize sz="43200" />
+        <!--size of BigColorBuffer: 3*OriginalImageBuffer=1080000-->
+      </channelProperties>
+      <graphProperties>
+        <timeConstraints>
+          <throughput>0.000000005</throughput>
+          <!-- 15fps (iterations) with 50MHz clock -->
+        </timeConstraints>
+      </graphProperties>
+    </sdfProperties>
+  </applicationGraph>
+</premadona>
